@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424288001551",
+    "firebase_url": "https://sermsuk-sadear.firebaseio.com",
+    "project_id": "sermsuk-sadear",
+    "storage_bucket": "sermsuk-sadear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424288001551:android:8d2203e685aeb2a6994d7a",
+        "android_client_info": {
+          "package_name": "com.example.sermsuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424288001551-jimfvheelsvr77n3fv20o6pdj9oa45mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5FYm3_Udj9yGsQOxUh0zmKQF1ysvU6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424288001551-jimfvheelsvr77n3fv20o6pdj9oa45mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

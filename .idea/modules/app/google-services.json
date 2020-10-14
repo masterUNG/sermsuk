@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766039395234",
+    "firebase_url": "https://sermsuk-3510d.firebaseio.com",
+    "project_id": "sermsuk-3510d",
+    "storage_bucket": "sermsuk-3510d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766039395234:android:ae93a421880a267d1bc0fb",
+        "android_client_info": {
+          "package_name": "com.example.sermsuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766039395234-28ga1r83943lmbfap2ik38lru8venu7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sermsuk",
+            "certificate_hash": "1bf94b60efec1c5897506397591e26050e8a9f0b"
+          }
+        },
+        {
+          "client_id": "766039395234-bbv7pm7ikjscqne4pgj2o6uqtqi96hmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwPFcPSljiHhzjU9OrlO-6AupoFEKIbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766039395234-bbv7pm7ikjscqne4pgj2o6uqtqi96hmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
